@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system;
+  background: #f5f5f5;
+}
+
+.container {
+  max-width: 420px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.amount {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 24px 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 12px;
+}
